@@ -1,15 +1,19 @@
 # Olá, eu sou o Guilherme Hermenegildo 👋
 
-Desenvolvo automações e integrações entre sistemas, principalmente com **n8n**, para tirar trabalho manual da operação: alertas que chegam sozinhos na central, lembretes que avisam a equipe antes de algo vencer e dados que passam de uma plataforma para outra sem ninguém copiar e colar.
+Desenvolvo automações e integrações entre sistemas para tirar trabalho manual da operação: alertas que chegam sozinhos na central, lembretes que avisam a equipe antes de algo vencer, robôs que baixam e organizam relatórios e dados que passam de uma plataforma para outra sem ninguém copiar e colar.
 
-Este perfil reúne essas automações. Cada repositório é um projeto, com o fluxo pronto para importar, a explicação do problema que ele resolve e as decisões de projeto.
+Uso principalmente **n8n** para orquestrar integrações e **Python** para robôs (RPA) e scripts. Cada repositório de automação é um projeto, com o problema que ele resolve, como funciona e como usar.
 
 ## 🧰 Tecnologias
 
 ![n8n](https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge&logo=n8n&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Playwright](https://img.shields.io/badge/Playwright-2EAD33?style=for-the-badge&logo=playwright&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
+![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
 ![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
+![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
 ![WhatsApp](https://img.shields.io/badge/WhatsApp_(WAHA)-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)
 ![REST API](https://img.shields.io/badge/REST_API-0A66C2?style=for-the-badge)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
@@ -35,8 +39,37 @@ Toda semana, confere os lembretes de manutenção da frota na **Cobli** e envia 
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
 ![WhatsApp](https://img.shields.io/badge/WhatsApp_(WAHA)-25D366?style=flat-square&logo=whatsapp&logoColor=white)
 ![REST API](https://img.shields.io/badge/REST_API-0A66C2?style=flat-square)
-![Cobli](https://img.shields.io/badge/Cobli-telemetria-555555?style=flat-square)
+![Cobli](https://img.shields.io/badge/Cobli-manutenção_de_frota-555555?style=flat-square)
+
+### [🤖 FullTrack Report Automation](https://github.com/TheMessengerTM/Fulltrack-Report-Automation)
+
+Robô (RPA) que entra na plataforma **FullTrack**, gera os relatórios do dia anterior (permanência em ponto e trajeto percorrido), exporta em CSV e organiza os arquivos em pastas por ano, cliente/posto, mês e tipo de relatório.
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Playwright](https://img.shields.io/badge/Playwright-2EAD33?style=flat-square&logo=playwright&logoColor=white)
+![RPA](https://img.shields.io/badge/RPA-automação_web-6E40C9?style=flat-square)
+![CSV](https://img.shields.io/badge/CSV-relatórios-217346?style=flat-square)
+
+## 📚 Estudos
+
+### [🐍 Repositório de atividades de Python](https://github.com/TheMessengerTM/Araujotrader-Repositorio_Base_GuilhermeHenrique)
+
+Atividades do curso de Python: fundamentos (condicionais, listas, laços, tratamento de erros), consumo de APIs, manipulação de dados com Jupyter, banco de dados, desenvolvimento web e automação com PyAutoGUI.
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white)
+![HTML](https://img.shields.io/badge/HTML-E34F26?style=flat-square&logo=html5&logoColor=white)
+
+### [📝 Avaliação prática — Módulo II](https://github.com/TheMessengerTM/Avaliacao-Pratica-Modulo-ll)
+
+Avaliação do curso em duas partes: uma API REST de calculadora com **Flask** (rotas com parâmetros na URL e resposta em JSON) e um CRUD completo em **SQLite**.
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white)
+![SQLite](https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white)
+![REST API](https://img.shields.io/badge/REST_API-0A66C2?style=flat-square)
 
 ## 🔒 Sobre os fluxos publicados
 
-Antes de publicar, todo fluxo passa por um script em **Python** que remove chaves de API, credenciais, IDs de conta, endereços internos e dados pessoais. Os valores sensíveis são trocados por marcadores (`<<PREENCHER>>`), e o fluxo pode ser importado e configurado em qualquer instância do n8n.
+Antes de publicar, todo fluxo n8n passa por um script em **Python** que remove chaves de API, credenciais, IDs de conta, endereços internos e dados pessoais. Os valores sensíveis são trocados por marcadores (`<<PREENCHER>>`), e o fluxo pode ser importado e configurado em qualquer instância do n8n.
