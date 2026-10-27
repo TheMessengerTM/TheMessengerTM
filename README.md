@@ -2,11 +2,12 @@
 
 Desenvolvo automações e integrações entre sistemas para tirar trabalho manual da operação: alertas que chegam sozinhos na central, lembretes que avisam a equipe antes de algo vencer, robôs que baixam e organizam relatórios e dados que passam de uma plataforma para outra sem ninguém copiar e colar.
 
-Uso principalmente **n8n** para orquestrar integrações e **Python** para robôs (RPA) e scripts. Cada repositório de automação é um projeto, com o problema que ele resolve, como funciona e como usar.
+Uso principalmente **n8n** e **Power Automate** para orquestrar integrações e **Python** para robôs (RPA) e scripts. Cada repositório de automação é um projeto, com o problema que ele resolve, como funciona e como usar.
 
 ## 🧰 Tecnologias
 
 ![n8n](https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge&logo=n8n&logoColor=white)
+![Power Automate](https://img.shields.io/badge/Power_Automate-0066FF?style=for-the-badge&logo=powerautomate&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![Playwright](https://img.shields.io/badge/Playwright-2EAD33?style=for-the-badge&logo=playwright&logoColor=white)
@@ -53,6 +54,15 @@ Conduz o **encerramento de contrato** de clientes em 11 fluxos: recebe o pedido 
 ![Outlook](https://img.shields.io/badge/Outlook-0078D4?style=flat-square&logo=microsoftoutlook&logoColor=white)
 ![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white)
 
+### [📊 Offboarding Report Automation](https://github.com/TheMessengerTM/Offboarding-Report-Automation)
+
+Toda segunda-feira, reúne os pedidos de demissão da semana registrados no **SharePoint** do RH e envia um relatório por **e-mail**: primeiro uma prévia para a equipe conferir e completar a lista, depois a versão final, atualizada, que segue para a diretoria.
+
+![Power Automate](https://img.shields.io/badge/Power_Automate-0066FF?style=flat-square&logo=powerautomate&logoColor=white)
+![Microsoft Lists](https://img.shields.io/badge/Microsoft_Lists-SharePoint-0078D4?style=flat-square&logo=microsoftsharepoint&logoColor=white)
+![Outlook](https://img.shields.io/badge/Outlook-0078D4?style=flat-square&logo=microsoftoutlook&logoColor=white)
+![HTML](https://img.shields.io/badge/HTML-E34F26?style=flat-square&logo=html5&logoColor=white)
+
 ### [🤖 FullTrack Report Automation](https://github.com/TheMessengerTM/Fulltrack-Report-Automation)
 
 Robô (RPA) que entra na plataforma **FullTrack**, gera os relatórios do dia anterior (permanência em ponto e trajeto percorrido), exporta em CSV e organiza os arquivos em pastas por ano, cliente/posto, mês e tipo de relatório.
@@ -84,4 +94,4 @@ Avaliação do curso em duas partes: uma API REST de calculadora com **Flask** (
 
 ## 🔒 Sobre os fluxos publicados
 
-Antes de publicar, todo fluxo n8n passa por um script em **Python** que remove chaves de API, credenciais, IDs de conta, endereços internos e dados pessoais. Os valores sensíveis são trocados por marcadores (`<<PREENCHER>>`), e o fluxo pode ser importado e configurado em qualquer instância do n8n.
+Antes de publicar, todo fluxo (n8n ou Power Automate) passa por um script em **Python** que remove chaves de API, credenciais, IDs de conta, endereços internos e dados pessoais. Os valores sensíveis são trocados por marcadores (`<<PREENCHER>>`), e o fluxo pode ser importado e configurado em outro ambiente.
