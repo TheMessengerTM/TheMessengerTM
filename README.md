@@ -56,7 +56,7 @@ Conduz o **encerramento de contrato** de clientes em 11 fluxos: recebe o pedido 
 
 ### [📊 Offboarding Report Automation](https://github.com/TheMessengerTM/Offboarding-Report-Automation)
 
-Gera os relatórios de desligamento do RH e da Psicologia a partir das entrevistas registradas no **SharePoint** e os envia por **e-mail**: primeiro uma prévia para a equipe conferir e completar a lista, depois a versão final, atualizada, que segue para a diretoria.
+Gera os relatórios de desligamento do RH e da Psicologia (semanais por tipo de desligamento e um mensal com a pesquisa de saída) a partir das entrevistas registradas no **SharePoint** e os envia por **e-mail**: primeiro uma prévia para a equipe conferir e completar a lista, depois a versão final, atualizada, que segue para a diretoria.
 
 ![Power Automate](https://img.shields.io/badge/Power_Automate-0066FF?style=flat-square&logo=powerautomate&logoColor=white)
 ![Microsoft Lists](https://img.shields.io/badge/Microsoft_Lists-SharePoint-0078D4?style=flat-square&logo=microsoftsharepoint&logoColor=white)
