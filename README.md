@@ -63,6 +63,15 @@ Gera os relatórios de desligamento do RH e da Psicologia (semanais por tipo de 
 ![Outlook](https://img.shields.io/badge/Outlook-0078D4?style=flat-square&logo=microsoftoutlook&logoColor=white)
 ![HTML](https://img.shields.io/badge/HTML-E34F26?style=flat-square&logo=html5&logoColor=white)
 
+### [🧑‍💼 Job Openings Automation](https://github.com/TheMessengerTM/Job-Openings-Automation)
+
+Acompanha a **gestão de vagas** do RH e da Psicologia no **SharePoint**: toda semana envia por **e-mail** o relatório de admitidos de cada área (portaria e limpeza) e, antes disso, cobra dos recrutadores as admissões que ficaram sem data de conclusão, para que entrem no relatório.
+
+![Power Automate](https://img.shields.io/badge/Power_Automate-0066FF?style=flat-square&logo=powerautomate&logoColor=white)
+![Microsoft Lists](https://img.shields.io/badge/Microsoft_Lists-SharePoint-0078D4?style=flat-square&logo=microsoftsharepoint&logoColor=white)
+![Outlook](https://img.shields.io/badge/Outlook-0078D4?style=flat-square&logo=microsoftoutlook&logoColor=white)
+![HTML](https://img.shields.io/badge/HTML-E34F26?style=flat-square&logo=html5&logoColor=white)
+
 ### [🤖 FullTrack Report Automation](https://github.com/TheMessengerTM/Fulltrack-Report-Automation)
 
 Robô (RPA) que entra na plataforma **FullTrack**, gera os relatórios do dia anterior (permanência em ponto e trajeto percorrido), exporta em CSV e organiza os arquivos em pastas por ano, cliente/posto, mês e tipo de relatório.
