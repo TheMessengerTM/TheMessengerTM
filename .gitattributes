@@ -1,2 +1,2 @@
-# Repositório só com README; por padrão o GitHub não conta Markdown na linguagem do repositório
-*.md linguist-detectable=true
+# Repositório só com README; por padrão o GitHub não conta Markdown (nem o README) na linguagem do repositório
+*.md linguist-detectable=true linguist-documentation=false
