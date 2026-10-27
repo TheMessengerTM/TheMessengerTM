@@ -15,6 +15,7 @@ Uso principalmente **n8n** para orquestrar integrações e **Python** para robô
 ![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
 ![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
 ![WhatsApp](https://img.shields.io/badge/WhatsApp_(WAHA)-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)
+![Microsoft 365](https://img.shields.io/badge/Microsoft_365-0078D4?style=for-the-badge&logo=microsoft&logoColor=white)
 ![REST API](https://img.shields.io/badge/REST_API-0A66C2?style=for-the-badge)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
@@ -40,6 +41,17 @@ Toda semana, confere os lembretes de manutenção da frota na **Cobli** e envia 
 ![WhatsApp](https://img.shields.io/badge/WhatsApp_(WAHA)-25D366?style=flat-square&logo=whatsapp&logoColor=white)
 ![REST API](https://img.shields.io/badge/REST_API-0A66C2?style=flat-square)
 ![Cobli](https://img.shields.io/badge/Cobli-manutenção_de_frota-555555?style=flat-square)
+
+### [📋 Customer Closing Automation](https://github.com/TheMessengerTM/Customer-Closing-Automation)
+
+Conduz o **encerramento de contrato** de clientes em 11 fluxos: recebe o pedido por **e-mail**, registra no **Microsoft Lists**, dá ao Comercial um prazo para recuperar o cliente e aciona o Operacional e o time de Sistemas por **enquetes no WhatsApp**, com controle de prazos e lembretes automáticos.
+
+![n8n](https://img.shields.io/badge/n8n-EA4B71?style=flat-square&logo=n8n&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![WhatsApp](https://img.shields.io/badge/WhatsApp_(WAHA)-25D366?style=flat-square&logo=whatsapp&logoColor=white)
+![Microsoft Lists](https://img.shields.io/badge/Microsoft_Lists-SharePoint-0078D4?style=flat-square&logo=microsoftsharepoint&logoColor=white)
+![Outlook](https://img.shields.io/badge/Outlook-0078D4?style=flat-square&logo=microsoftoutlook&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white)
 
 ### [🤖 FullTrack Report Automation](https://github.com/TheMessengerTM/Fulltrack-Report-Automation)
 
