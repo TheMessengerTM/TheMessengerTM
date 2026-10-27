@@ -15,6 +15,7 @@ Desenvolvo **automações e integrações entre sistemas** que tiram trabalho ma
 - 🏢 Minhas automações rodam em produção na **ASTER Segurança** (segurança eletrônica e facilities), atendendo **Operação, Comercial, RH e Psicologia**.
 - 📄 Cada repositório é um projeto real, documentado: o problema, como funciona, as decisões de projeto e como importar.
 - 🔒 Todo fluxo publicado passa por um script de limpeza que remove credenciais, IDs e dados pessoais.
+- 🌱 Meu foco de crescimento é o **desenvolvimento backend**: APIs, bancos de dados e integração de sistemas. Gosto de aprender novas ferramentas e linguagens e de colocá-las em prática em projetos reais.
 
 <div align="center">
 
