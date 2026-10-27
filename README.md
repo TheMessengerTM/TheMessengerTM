@@ -12,7 +12,7 @@
 Desenvolvo **automações e integrações entre sistemas** que tiram trabalho manual da operação: alertas que chegam sozinhos na central de monitoramento, relatórios que se montam e se enviam, robôs que baixam e organizam arquivos, dados que passam de uma plataforma para outra sem ninguém copiar e colar.
 
 - 🔧 Trabalho com **n8n** e **Power Automate** para orquestrar processos e com **Python** para robôs (RPA) e scripts.
-- 🏢 Minhas automações rodam em produção numa empresa de segurança eletrônica e facilities, atendendo **Operação, Comercial, RH e Psicologia**.
+- 🏢 Minhas automações rodam em produção na **ASTER Segurança** (segurança eletrônica e facilities), atendendo **Operação, Comercial, RH e Psicologia**.
 - 📄 Cada repositório é um projeto real, documentado: o problema, como funciona, as decisões de projeto e como importar.
 - 🔒 Todo fluxo publicado passa por um script de limpeza que remove credenciais, IDs e dados pessoais.
 
