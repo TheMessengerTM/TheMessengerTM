@@ -19,6 +19,12 @@ Os fluxos publicados aqui são os que eu uso no trabalho. Antes de subir, removo
 
 ## Projetos
 
+**Backend**
+
+| Projeto | O que faz | Stack |
+|---|---|---|
+| [Gear Sync API](https://github.com/TheMessengerTM/Gear-Sync-API) | Puxa condomínios, unidades e moradores do sistema de controle de acesso GEAR, grava no PostgreSQL sem duplicar e expõe tudo numa API própria. Vem com servidor falso para rodar sem credencial, testes e CI. | ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white) ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white) ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white) |
+
 **n8n**
 
 | Projeto | O que faz | Stack |
@@ -69,6 +75,16 @@ Os fluxos publicados aqui são os que eu uso no trabalho. Antes de subir, removo
 ![WhatsApp](https://img.shields.io/badge/WhatsApp_(WAHA)-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)
 ![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
 ![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
+
+</td></tr>
+<tr><td><b>Backend</b></td><td>
+
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+![SQLAlchemy](https://img.shields.io/badge/SQLAlchemy-D71F00?style=for-the-badge&logo=sqlalchemy&logoColor=white)
+![pytest](https://img.shields.io/badge/pytest-0A9EDC?style=for-the-badge&logo=pytest&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
 
 </td></tr>
 <tr><td><b>Outras</b></td><td>
