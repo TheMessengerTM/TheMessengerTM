@@ -54,47 +54,37 @@ Os fluxos publicados aqui são os que eu uso no trabalho. Antes de subir, removo
 
 <table>
 <tr><td><b>Automação</b></td><td>
-
-![n8n](https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge&logo=n8n&logoColor=white)
-![Power Automate](https://img.shields.io/badge/Power_Automate-0066FF?style=for-the-badge&logo=powerautomate&logoColor=white)
-![Playwright](https://img.shields.io/badge/Playwright-2EAD33?style=for-the-badge&logo=playwright&logoColor=white)
-![Selenium](https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=white)
-![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
-
+<img src="assets/icons/n8n.svg" width="48" alt="n8n" title="n8n" />
+<img src="assets/icons/powerautomate.svg" width="48" alt="Power Automate" title="Power Automate" />
+<img src="assets/icons/playwright.svg" width="48" alt="Playwright" title="Playwright" />
+<img src="https://skillicons.dev/icons?i=selenium" width="48" alt="Selenium" title="Selenium" />
+<img src="https://skillicons.dev/icons?i=opencv" width="48" alt="OpenCV" title="OpenCV" />
 </td></tr>
 <tr><td><b>Linguagens</b></td><td>
-
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![HTML](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css&logoColor=white)
-
+<img src="https://skillicons.dev/icons?i=py" width="48" alt="Python" title="Python" />
+<img src="https://skillicons.dev/icons?i=js" width="48" alt="JavaScript" title="JavaScript" />
+<img src="https://skillicons.dev/icons?i=html" width="48" alt="HTML" title="HTML" />
+<img src="https://skillicons.dev/icons?i=css" width="48" alt="CSS" title="CSS" />
 </td></tr>
 <tr><td><b>Integrações e dados</b></td><td>
-
-![REST API](https://img.shields.io/badge/REST_API-0A66C2?style=for-the-badge)
-![Microsoft 365](https://img.shields.io/badge/Microsoft_365-0078D4?style=for-the-badge&logo=microsoft&logoColor=white)
-![WhatsApp](https://img.shields.io/badge/WhatsApp_(WAHA)-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)
-![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
-![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
-
+<img src="assets/icons/restapi.svg" width="48" alt="REST API" title="REST API" />
+<img src="assets/icons/microsoft365.svg" width="48" alt="Microsoft 365" title="Microsoft 365" />
+<img src="assets/icons/whatsapp.svg" width="48" alt="WhatsApp (WAHA)" title="WhatsApp (WAHA)" />
+<img src="https://skillicons.dev/icons?i=redis" width="48" alt="Redis" title="Redis" />
+<img src="https://skillicons.dev/icons?i=sqlite" width="48" alt="SQLite" title="SQLite" />
+<img src="https://skillicons.dev/icons?i=postgres" width="48" alt="PostgreSQL" title="PostgreSQL" />
 </td></tr>
 <tr><td><b>Backend</b></td><td>
-
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
-![SQLAlchemy](https://img.shields.io/badge/SQLAlchemy-D71F00?style=for-the-badge&logo=sqlalchemy&logoColor=white)
-![pytest](https://img.shields.io/badge/pytest-0A9EDC?style=for-the-badge&logo=pytest&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
-
+<img src="https://skillicons.dev/icons?i=fastapi" width="48" alt="FastAPI" title="FastAPI" />
+<img src="assets/icons/sqlalchemy.svg" width="48" alt="SQLAlchemy" title="SQLAlchemy" />
+<img src="assets/icons/pytest.svg" width="48" alt="pytest" title="pytest" />
+<img src="https://skillicons.dev/icons?i=docker" width="48" alt="Docker" title="Docker" />
+<img src="https://skillicons.dev/icons?i=githubactions" width="48" alt="GitHub Actions" title="GitHub Actions" />
 </td></tr>
 <tr><td><b>Outras</b></td><td>
-
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
-![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
-
+<img src="https://skillicons.dev/icons?i=git" width="48" alt="Git" title="Git" />
+<img src="https://skillicons.dev/icons?i=flask" width="48" alt="Flask" title="Flask" />
+<img src="assets/icons/jupyter.svg" width="48" alt="Jupyter" title="Jupyter" />
 </td></tr>
 </table>
 
