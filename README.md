@@ -1,7 +1,5 @@
 <div align="center">
 
-<img src="assets/toji-8bit.gif" width="450" alt="Toji Fushiguro (8-bit)" />
-
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0066FF,100:6E40C9&height=190&section=header&text=Guilherme%20Hermenegildo&fontSize=42&fontColor=ffffff&fontAlignY=36&desc=Automa%C3%A7%C3%A3o%20de%20processos%20%C2%B7%20Integra%C3%A7%C3%B5es%20%C2%B7%20RPA&descSize=18&descAlignY=58" alt="Guilherme Hermenegildo" />
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/guilherme-henrique-da-gra%C3%A7a-hermenegildo-b2b896309)
