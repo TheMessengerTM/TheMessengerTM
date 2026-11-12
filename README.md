@@ -1,6 +1,8 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0066FF,100:6E40C9&height=190&section=header&text=Guilherme%20Hermenegildo&fontSize=42&fontColor=ffffff&fontAlignY=36&desc=Automa%C3%A7%C3%A3o%20de%20processos%20%C2%B7%20Integra%C3%A7%C3%B5es%20%C2%B7%20RPA&descSize=18&descAlignY=58" alt="Guilherme Hermenegildo" />
+<img src="assets/sekiro-banner.jpg" width="100%" alt="Sekiro" />
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:120806,50:5C1A10,100:B8321E&height=190&section=header&text=Guilherme%20Hermenegildo&fontSize=42&fontColor=F2D08A&fontAlignY=36&desc=Automa%C3%A7%C3%A3o%20de%20processos%20%C2%B7%20Integra%C3%A7%C3%B5es%20%C2%B7%20RPA&descSize=18&descAlignY=58" alt="Guilherme Hermenegildo" />
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/guilherme-henrique-da-gra%C3%A7a-hermenegildo-b2b896309)
 [![E-mail](https://img.shields.io/badge/E--mail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:guilhermehermenegildo2@gmail.com)
