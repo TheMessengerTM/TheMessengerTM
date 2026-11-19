@@ -64,6 +64,7 @@ Os fluxos publicados aqui são os que eu uso no trabalho. Antes de subir, removo
 <tr><td><b>Linguagens</b></td><td>
 <img src="https://skillicons.dev/icons?i=py" width="48" alt="Python" title="Python" />
 <img src="https://skillicons.dev/icons?i=js" width="48" alt="JavaScript" title="JavaScript" />
+<img src="https://skillicons.dev/icons?i=ts" width="48" alt="TypeScript" title="TypeScript" />
 <img src="https://skillicons.dev/icons?i=html" width="48" alt="HTML" title="HTML" />
 <img src="https://skillicons.dev/icons?i=css" width="48" alt="CSS" title="CSS" />
 </td></tr>
@@ -74,9 +75,11 @@ Os fluxos publicados aqui são os que eu uso no trabalho. Antes de subir, removo
 <img src="https://skillicons.dev/icons?i=redis" width="48" alt="Redis" title="Redis" />
 <img src="https://skillicons.dev/icons?i=sqlite" width="48" alt="SQLite" title="SQLite" />
 <img src="https://skillicons.dev/icons?i=postgres" width="48" alt="PostgreSQL" title="PostgreSQL" />
+<img src="https://skillicons.dev/icons?i=mongodb" width="48" alt="MongoDB" title="MongoDB" />
 </td></tr>
 <tr><td><b>Backend</b></td><td>
 <img src="https://skillicons.dev/icons?i=fastapi" width="48" alt="FastAPI" title="FastAPI" />
+<img src="https://skillicons.dev/icons?i=nestjs" width="48" alt="NestJS" title="NestJS" />
 <img src="assets/icons/sqlalchemy.svg" width="48" alt="SQLAlchemy" title="SQLAlchemy" />
 <img src="assets/icons/pytest.svg" width="48" alt="pytest" title="pytest" />
 <img src="https://skillicons.dev/icons?i=docker" width="48" alt="Docker" title="Docker" />
@@ -95,3 +98,7 @@ Do curso de Python que fiz:
 
 - [Atividades de Python](https://github.com/TheMessengerTM/Araujotrader-Repositorio_Base_GuilhermeHenrique): exercícios de fundamentos, consumo de API, Jupyter, banco de dados, Flask e PyAutoGUI.
 - [Avaliação prática do Módulo II](https://github.com/TheMessengerTM/Avaliacao-Pratica-Modulo-ll): uma API de calculadora em Flask e um CRUD em SQLite.
+
+Da faculdade:
+
+- [Controle Financeiro API](https://github.com/TheMessengerTM/Controle-Financeiro-API): API em NestJS e MongoDB para registrar receitas e despesas e devolver o saldo, o total de despesas e quanto foi gasto por impulso. Atividade de Web Mobile ligada a um projeto extensionista (ODS 1 e ODS 12).
