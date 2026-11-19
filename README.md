@@ -30,6 +30,7 @@ Os fluxos publicados aqui são os que eu uso no trabalho. Antes de subir, removo
 | Projeto | O que faz | Stack |
 |---|---|---|
 | [Gear Sync API](https://github.com/TheMessengerTM/Gear-Sync-API) | Puxa condomínios, unidades e moradores do sistema de controle de acesso GEAR, grava no PostgreSQL sem duplicar e expõe tudo numa API própria. Vem com servidor falso para rodar sem credencial, testes e CI. | <img src="https://skillicons.dev/icons?i=py" width="28" alt="Python" title="Python" /> <img src="https://skillicons.dev/icons?i=fastapi" width="28" alt="FastAPI" title="FastAPI" /> <img src="https://skillicons.dev/icons?i=postgres" width="28" alt="PostgreSQL" title="PostgreSQL" /> <img src="https://skillicons.dev/icons?i=docker" width="28" alt="Docker" title="Docker" /> |
+| [Controle Financeiro API](https://github.com/TheMessengerTM/Controle-Financeiro-API) | API para registrar receitas e despesas que devolve o saldo, o total de despesas e quanto foi gasto por impulso. Projeto da faculdade (Web Mobile), ligado a um projeto extensionista sobre os ODS 1 e 12. | <img src="https://skillicons.dev/icons?i=ts" width="28" alt="TypeScript" title="TypeScript" /> <img src="https://skillicons.dev/icons?i=nestjs" width="28" alt="NestJS" title="NestJS" /> <img src="https://skillicons.dev/icons?i=mongodb" width="28" alt="MongoDB" title="MongoDB" /> |
 
 **n8n**
 
@@ -110,7 +111,3 @@ Do curso de Python que fiz:
 Pelo Microsoft Learn:
 
 - **Microsoft Power Platform**: Power Apps, Power Automate, Dataverse e as demais ferramentas da plataforma.
-
-Da faculdade:
-
-- [Controle Financeiro API](https://github.com/TheMessengerTM/Controle-Financeiro-API): API em NestJS e MongoDB para registrar receitas e despesas e devolver o saldo, o total de despesas e quanto foi gasto por impulso. Atividade de Web Mobile ligada a um projeto extensionista (ODS 1 e ODS 12).
