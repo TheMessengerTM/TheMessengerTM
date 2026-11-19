@@ -2,7 +2,7 @@
 
 <img src="assets/sekiro-banner.jpg" width="100%" alt="Sekiro" />
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:120806,50:5C1A10,100:B8321E&height=190&section=header&text=Guilherme%20Hermenegildo&fontSize=42&fontColor=F2D08A&fontAlignY=36&desc=Automa%C3%A7%C3%A3o%20de%20processos%20%C2%B7%20Integra%C3%A7%C3%B5es%20%C2%B7%20RPA&descSize=18&descAlignY=58" alt="Guilherme Hermenegildo" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:120806,50:5C1A10,100:B8321E&height=190&section=header&text=Guilherme%20Hermenegildo&fontSize=42&fontColor=F2D08A&fontAlignY=36&desc=Automa%C3%A7%C3%A3o%20de%20processos%20%C2%B7%20Integra%C3%A7%C3%B5es%20%C2%B7%20IA%20%C2%B7%20RPA&descSize=18&descAlignY=58" alt="Guilherme Hermenegildo" />
 
 <a href="https://www.linkedin.com/in/guilherme-henrique-da-gra%C3%A7a-hermenegildo-b2b896309"><img src="https://skillicons.dev/icons?i=linkedin" width="40" alt="LinkedIn" title="LinkedIn" /></a>
 <a href="mailto:guilhermehermenegildo2@gmail.com"><img src="https://skillicons.dev/icons?i=gmail" width="40" alt="E-mail" title="E-mail" /></a>
@@ -14,6 +14,10 @@
 Trabalho com automação na ASTER Segurança. Meu dia a dia é pegar uma tarefa que alguém faz na mão toda semana, como copiar dado de um sistema para outro, montar relatório ou ficar cobrando prazo da equipe, e transformar isso num fluxo que roda sozinho.
 
 A maior parte eu faço em n8n e Power Automate. Quando a ferramenta não dá conta, como nos robôs que baixam os relatórios da FullTrack e da Findme, eu parto para Python.
+
+IA entra em boa parte do que faço hoje. No n8n monto agentes com ferramentas e memória, como o que registra ocorrências conversando com quem atende, e uso saída estruturada para tirar dados de texto livre. Na inclusão de clientes, por exemplo, a IA lê o PDF do formulário preenchido pelo cliente e devolve os campos num JSON com formato fixo. Trabalho com modelos da OpenAI, do Gemini e do Groq. Deixo em código tudo o que dá para validar, e a IA cuida só do que não tem como prever.
+
+Para desenvolver, uso o Claude (Claude Code) como par de programação. Com ele altero os fluxos direto pela API do n8n, escrevo os scripts de apoio, reviso o que vai para produção e preparo os repositórios daqui, inclusive a sanitização antes de publicar.
 
 Quero seguir para backend. Integrando sistemas eu já tive que lidar com evento chegando duplicado, API fora do ar e dado vindo num formato diferente do esperado, e é justamente essa parte que eu mais gosto. O próximo passo é construir os serviços, e não só ligar um no outro.
 
@@ -60,6 +64,11 @@ Os fluxos publicados aqui são os que eu uso no trabalho. Antes de subir, removo
 <img src="assets/icons/playwright.svg" width="48" alt="Playwright" title="Playwright" />
 <img src="https://skillicons.dev/icons?i=selenium" width="48" alt="Selenium" title="Selenium" />
 <img src="https://skillicons.dev/icons?i=opencv" width="48" alt="OpenCV" title="OpenCV" />
+</td></tr>
+<tr><td><b>IA</b></td><td>
+<img src="assets/icons/openai.svg" width="48" alt="OpenAI" title="OpenAI" />
+<img src="assets/icons/claude.svg" width="48" alt="Claude" title="Claude (Claude Code)" />
+<img src="assets/icons/googlegemini.svg" width="48" alt="Gemini" title="Gemini" />
 </td></tr>
 <tr><td><b>Linguagens</b></td><td>
 <img src="https://skillicons.dev/icons?i=py" width="48" alt="Python" title="Python" />
