@@ -67,7 +67,8 @@ Os fluxos publicados aqui são os que eu uso no trabalho. Antes de subir, removo
 </td></tr>
 <tr><td><b>IA</b></td><td>
 <img src="assets/icons/openai.svg" width="48" alt="OpenAI" title="OpenAI" />
-<img src="assets/icons/claude.svg" width="48" alt="Claude" title="Claude (Claude Code)" /></td></tr>
+<img src="assets/icons/claude.svg" width="48" alt="Claude" title="Claude (Claude Code)" />
+<img src="assets/icons/googlegemini.svg" width="48" alt="Gemini" title="Gemini" /></td></tr>
 <tr><td><b>Linguagens</b></td><td>
 <img src="https://skillicons.dev/icons?i=py" width="48" alt="Python" title="Python" />
 <img src="https://skillicons.dev/icons?i=js" width="48" alt="JavaScript" title="JavaScript" />
@@ -105,6 +106,10 @@ Do curso de Python que fiz:
 
 - [Atividades de Python](https://github.com/TheMessengerTM/Araujotrader-Repositorio_Base_GuilhermeHenrique): exercícios de fundamentos, consumo de API, Jupyter, banco de dados, Flask e PyAutoGUI.
 - [Avaliação prática do Módulo II](https://github.com/TheMessengerTM/Avaliacao-Pratica-Modulo-ll): uma API de calculadora em Flask e um CRUD em SQLite.
+
+Pelo Microsoft Learn:
+
+- **Microsoft Power Platform**: Power Apps, Power Automate, Dataverse e as demais ferramentas da plataforma.
 
 Da faculdade:
 
