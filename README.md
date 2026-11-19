@@ -108,6 +108,10 @@ Do curso de Python que fiz:
 - [Atividades de Python](https://github.com/TheMessengerTM/Araujotrader-Repositorio_Base_GuilhermeHenrique): exercícios de fundamentos, consumo de API, Jupyter, banco de dados, Flask e PyAutoGUI.
 - [Avaliação prática do Módulo II](https://github.com/TheMessengerTM/Avaliacao-Pratica-Modulo-ll): uma API de calculadora em Flask e um CRUD em SQLite.
 
-Pelo Microsoft Learn:
+Pelo Microsoft Learn, os roteiros da trilha **PL-900 (Microsoft Power Platform Fundamentals)**, concluídos em setembro de 2026, com todas as avaliações de módulo aprovadas:
 
-- **Microsoft Power Platform**: Power Apps, Power Automate, Dataverse e as demais ferramentas da plataforma.
+- Explorar os conceitos básicos do Microsoft Power Platform
+- Demonstrar os recursos do Microsoft Power Automate
+- Gerenciar o ambiente do Microsoft Power Platform
+
+Ao todo são 7 módulos, cerca de 7 horas: Power Apps (aplicativos de tela e baseados em modelo), Power Automate (fluxos de nuvem e de desktop, mineração de processos), Dataverse, agentes no Copilot Studio, governança e ALM.
