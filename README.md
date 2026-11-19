@@ -15,7 +15,7 @@ Trabalho com automação na ASTER Segurança. Meu dia a dia é pegar uma tarefa 
 
 A maior parte eu faço em n8n e Power Automate. Quando a ferramenta não dá conta, como nos robôs que baixam os relatórios da FullTrack e da Findme, eu parto para Python.
 
-IA entra em boa parte do que faço hoje. No n8n monto agentes com ferramentas e memória, como o que registra ocorrências conversando com quem atende, e uso saída estruturada para tirar dados de texto livre. Na inclusão de clientes, por exemplo, a IA lê o PDF do formulário preenchido pelo cliente e devolve os campos num JSON com formato fixo. Trabalho com modelos da OpenAI, do Gemini e do Groq. Deixo em código tudo o que dá para validar, e a IA cuida só do que não tem como prever.
+Uso IA onde o dado chega como texto livre. Na inclusão de clientes, a IA (OpenAI, com saída estruturada) lê o PDF do formulário preenchido pelo cliente e devolve os campos num JSON com formato fixo. Bolsão, CPF/CNPJ, datas e a checagem de duplicidade ficam em código: deixo para a IA só o que não tem como prever.
 
 Para desenvolver, uso o Claude (Claude Code) como par de programação. Com ele altero os fluxos direto pela API do n8n, escrevo os scripts de apoio, reviso o que vai para produção e preparo os repositórios daqui, inclusive a sanitização antes de publicar.
 
@@ -67,9 +67,7 @@ Os fluxos publicados aqui são os que eu uso no trabalho. Antes de subir, removo
 </td></tr>
 <tr><td><b>IA</b></td><td>
 <img src="assets/icons/openai.svg" width="48" alt="OpenAI" title="OpenAI" />
-<img src="assets/icons/claude.svg" width="48" alt="Claude" title="Claude (Claude Code)" />
-<img src="assets/icons/googlegemini.svg" width="48" alt="Gemini" title="Gemini" />
-</td></tr>
+<img src="assets/icons/claude.svg" width="48" alt="Claude" title="Claude (Claude Code)" /></td></tr>
 <tr><td><b>Linguagens</b></td><td>
 <img src="https://skillicons.dev/icons?i=py" width="48" alt="Python" title="Python" />
 <img src="https://skillicons.dev/icons?i=js" width="48" alt="JavaScript" title="JavaScript" />
