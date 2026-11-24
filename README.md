@@ -80,7 +80,7 @@ Os fluxos publicados aqui são os que uso no trabalho. Antes de subir, removo cr
 <img src="https://skillicons.dev/icons?i=ts" width="48" alt="TypeScript" title="TypeScript" />
 <img src="https://skillicons.dev/icons?i=html" width="48" alt="HTML" title="HTML" />
 <img src="https://skillicons.dev/icons?i=css" width="48" alt="CSS" title="CSS" />
-<img src="https://img.shields.io/badge/SQL-202A36?style=for-the-badge" height="28" alt="SQL" title="SQL" />
+<img src="assets/icons/sql.svg" width="48" alt="SQL" title="SQL" />
 </td></tr>
 <tr><td><b>Integrações e dados</b></td><td>
 <img src="assets/icons/restapi.svg" width="48" alt="REST API" title="REST API" />
@@ -96,13 +96,13 @@ Os fluxos publicados aqui são os que uso no trabalho. Antes de subir, removo cr
 <img src="assets/icons/playwright.svg" width="48" alt="Playwright" title="Playwright" />
 <img src="https://skillicons.dev/icons?i=selenium" width="48" alt="Selenium" title="Selenium" />
 <img src="https://skillicons.dev/icons?i=opencv" width="48" alt="OpenCV" title="OpenCV" />
-<img src="https://img.shields.io/badge/PyAutoGUI-202A36?style=for-the-badge" height="28" alt="PyAutoGUI" title="PyAutoGUI" />
+<img src="assets/icons/pyautogui.svg" width="48" alt="PyAutoGUI" title="PyAutoGUI" />
 </td></tr>
 <tr><td><b>Power Platform</b></td><td>
 <img src="assets/icons/powerautomate.svg" width="48" alt="Power Automate" title="Power Automate" />
-<img src="https://img.shields.io/badge/Power%20Apps-202A36?style=for-the-badge" height="28" alt="Power Apps" title="Power Apps" />
-<img src="https://img.shields.io/badge/Dataverse-202A36?style=for-the-badge" height="28" alt="Dataverse" title="Dataverse" />
-<img src="https://img.shields.io/badge/Copilot%20Studio-202A36?style=for-the-badge" height="28" alt="Copilot Studio" title="Copilot Studio" />
+<img src="assets/icons/powerapps.svg" width="48" alt="Power Apps" title="Power Apps" />
+<img src="assets/icons/dataverse.svg" width="48" alt="Dataverse" title="Dataverse" />
+<img src="assets/icons/copilotstudio.svg" width="48" alt="Copilot Studio" title="Copilot Studio" />
 </td></tr>
 <tr><td><b>IA</b></td><td>
 <img src="assets/icons/openai.svg" width="48" alt="OpenAI" title="OpenAI" />
@@ -115,13 +115,13 @@ Os fluxos publicados aqui são os que uso no trabalho. Antes de subir, removo cr
 <img src="assets/icons/jupyter.svg" width="48" alt="Jupyter" title="Jupyter" />
 </td></tr>
 <tr><td><b>Plataformas do dia a dia</b></td><td>
-<img src="https://img.shields.io/badge/Salesforce-202A36?style=for-the-badge" height="28" alt="Salesforce" title="Salesforce" />
-<img src="https://img.shields.io/badge/SharePoint%20Lists-202A36?style=for-the-badge" height="28" alt="SharePoint Lists" title="SharePoint Lists" />
-<img src="https://img.shields.io/badge/FindMe-202A36?style=for-the-badge" height="28" alt="FindMe" title="FindMe" />
-<img src="https://img.shields.io/badge/FullTrack-202A36?style=for-the-badge" height="28" alt="FullTrack" title="FullTrack" />
-<img src="https://img.shields.io/badge/Monuv-202A36?style=for-the-badge" height="28" alt="Monuv" title="Monuv" />
-<img src="https://img.shields.io/badge/Zabbix-202A36?style=for-the-badge" height="28" alt="Zabbix" title="Zabbix" />
-<img src="https://img.shields.io/badge/SigmaCloud-202A36?style=for-the-badge" height="28" alt="SigmaCloud" title="SigmaCloud" />
+<img src="assets/icons/salesforce.svg" width="48" alt="Salesforce" title="Salesforce" />
+<img src="assets/icons/sharepointlists.svg" width="48" alt="SharePoint Lists" title="SharePoint Lists" />
+<img src="assets/icons/findme.svg" width="48" alt="FindMe" title="FindMe" />
+<img src="assets/icons/fulltrack.svg" width="48" alt="FullTrack" title="FullTrack" />
+<img src="assets/icons/monuv.svg" width="48" alt="Monuv" title="Monuv" />
+<img src="assets/icons/zabbix.svg" width="48" alt="Zabbix" title="Zabbix" />
+<img src="assets/icons/sigmacloud.svg" width="48" alt="SigmaCloud" title="SigmaCloud" />
 </td></tr>
 </table>
 
