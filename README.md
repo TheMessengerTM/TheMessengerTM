@@ -13,7 +13,7 @@
 
 Trabalho com automação na ASTER Segurança. Meu dia a dia é pegar uma tarefa que alguém faz na mão toda semana, como copiar dado de um sistema para outro, montar relatório ou ficar cobrando prazo da equipe, e transformar isso num fluxo que roda sozinho.
 
-A maior parte eu faço em n8n e Power Automate. Quando a ferramenta não dá conta, como nos robôs que baixam os relatórios da FullTrack e da Findme, eu parto para Python.
+A maior parte eu faço em n8n e Power Automate. Quando a ferramenta não dá conta, como nos robôs que baixam os relatórios da FullTrack, da Findme e do GEAR ou que exportam os treinamentos do LudosPro, eu parto para Python.
 
 Uso IA onde o dado chega como texto livre. Na inclusão de clientes, a IA (OpenAI, com saída estruturada) lê o PDF do formulário preenchido pelo cliente e devolve os campos num JSON com formato fixo. Bolsão, CPF/CNPJ, datas e a checagem de duplicidade ficam em código: deixo para a IA só o que não tem como prever.
 
