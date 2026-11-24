@@ -142,8 +142,6 @@ Os fluxos publicados aqui são os que uso no trabalho. Antes de subir, removo cr
 | Desenvolvimento Intermediário com Python | SENAI São Paulo | ago. 2025 a out. 2025 |
 | Programação em Python | SENAI São Paulo | mai. 2025 a jun. 2025 |
 
-Inglês profissional.
-
 ## Estudos
 
 Do curso de Python que fiz:
