@@ -66,33 +66,6 @@ Os fluxos publicados aqui são os que uso no trabalho. Antes de subir, removo cr
 ## Ferramentas
 
 <table>
-<tr><td><b>Automação</b></td><td>
-<img src="assets/icons/n8n.svg" width="48" alt="n8n" title="n8n" />
-<img src="assets/icons/powerautomate.svg" width="48" alt="Power Automate" title="Power Automate" />
-<img src="assets/icons/playwright.svg" width="48" alt="Playwright" title="Playwright" />
-<img src="https://skillicons.dev/icons?i=selenium" width="48" alt="Selenium" title="Selenium" />
-<img src="https://skillicons.dev/icons?i=opencv" width="48" alt="OpenCV" title="OpenCV" />
-</td></tr>
-<tr><td><b>IA</b></td><td>
-<img src="assets/icons/openai.svg" width="48" alt="OpenAI" title="OpenAI" />
-<img src="assets/icons/claude.svg" width="48" alt="Claude" title="Claude (Claude Code)" />
-<img src="assets/icons/googlegemini.svg" width="48" alt="Gemini" title="Gemini" /></td></tr>
-<tr><td><b>Linguagens</b></td><td>
-<img src="https://skillicons.dev/icons?i=py" width="48" alt="Python" title="Python" />
-<img src="https://skillicons.dev/icons?i=js" width="48" alt="JavaScript" title="JavaScript" />
-<img src="https://skillicons.dev/icons?i=ts" width="48" alt="TypeScript" title="TypeScript" />
-<img src="https://skillicons.dev/icons?i=html" width="48" alt="HTML" title="HTML" />
-<img src="https://skillicons.dev/icons?i=css" width="48" alt="CSS" title="CSS" />
-</td></tr>
-<tr><td><b>Integrações e dados</b></td><td>
-<img src="assets/icons/restapi.svg" width="48" alt="REST API" title="REST API" />
-<img src="assets/icons/microsoft365.svg" width="48" alt="Microsoft 365" title="Microsoft 365" />
-<img src="assets/icons/whatsapp.svg" width="48" alt="WhatsApp (WAHA)" title="WhatsApp (WAHA)" />
-<img src="https://skillicons.dev/icons?i=redis" width="48" alt="Redis" title="Redis" />
-<img src="https://skillicons.dev/icons?i=sqlite" width="48" alt="SQLite" title="SQLite" />
-<img src="https://skillicons.dev/icons?i=postgres" width="48" alt="PostgreSQL" title="PostgreSQL" />
-<img src="https://skillicons.dev/icons?i=mongodb" width="48" alt="MongoDB" title="MongoDB" />
-</td></tr>
 <tr><td><b>Backend</b></td><td>
 <img src="https://skillicons.dev/icons?i=fastapi" width="48" alt="FastAPI" title="FastAPI" />
 <img src="https://skillicons.dev/icons?i=nestjs" width="48" alt="NestJS" title="NestJS" />
@@ -101,10 +74,54 @@ Os fluxos publicados aqui são os que uso no trabalho. Antes de subir, removo cr
 <img src="https://skillicons.dev/icons?i=docker" width="48" alt="Docker" title="Docker" />
 <img src="https://skillicons.dev/icons?i=githubactions" width="48" alt="GitHub Actions" title="GitHub Actions" />
 </td></tr>
+<tr><td><b>Linguagens</b></td><td>
+<img src="https://skillicons.dev/icons?i=py" width="48" alt="Python" title="Python" />
+<img src="https://skillicons.dev/icons?i=js" width="48" alt="JavaScript" title="JavaScript" />
+<img src="https://skillicons.dev/icons?i=ts" width="48" alt="TypeScript" title="TypeScript" />
+<img src="https://skillicons.dev/icons?i=html" width="48" alt="HTML" title="HTML" />
+<img src="https://skillicons.dev/icons?i=css" width="48" alt="CSS" title="CSS" />
+<img src="https://img.shields.io/badge/SQL-202A36?style=for-the-badge" height="28" alt="SQL" title="SQL" />
+</td></tr>
+<tr><td><b>Integrações e dados</b></td><td>
+<img src="assets/icons/restapi.svg" width="48" alt="REST API" title="REST API" />
+<img src="assets/icons/microsoft365.svg" width="48" alt="Microsoft 365" title="Microsoft 365" />
+<img src="assets/icons/whatsapp.svg" width="48" alt="WhatsApp (WAHA)" title="WhatsApp (WAHA)" />
+<img src="https://skillicons.dev/icons?i=redis" width="48" alt="Redis" title="Redis" />
+<img src="https://skillicons.dev/icons?i=postgres" width="48" alt="PostgreSQL" title="PostgreSQL" />
+<img src="https://skillicons.dev/icons?i=mongodb" width="48" alt="MongoDB" title="MongoDB" />
+<img src="https://skillicons.dev/icons?i=sqlite" width="48" alt="SQLite" title="SQLite" />
+</td></tr>
+<tr><td><b>Automação</b></td><td>
+<img src="assets/icons/n8n.svg" width="48" alt="n8n" title="n8n" />
+<img src="assets/icons/playwright.svg" width="48" alt="Playwright" title="Playwright" />
+<img src="https://skillicons.dev/icons?i=selenium" width="48" alt="Selenium" title="Selenium" />
+<img src="https://skillicons.dev/icons?i=opencv" width="48" alt="OpenCV" title="OpenCV" />
+<img src="https://img.shields.io/badge/PyAutoGUI-202A36?style=for-the-badge" height="28" alt="PyAutoGUI" title="PyAutoGUI" />
+</td></tr>
+<tr><td><b>Power Platform</b></td><td>
+<img src="assets/icons/powerautomate.svg" width="48" alt="Power Automate" title="Power Automate" />
+<img src="https://img.shields.io/badge/Power%20Apps-202A36?style=for-the-badge" height="28" alt="Power Apps" title="Power Apps" />
+<img src="https://img.shields.io/badge/Dataverse-202A36?style=for-the-badge" height="28" alt="Dataverse" title="Dataverse" />
+<img src="https://img.shields.io/badge/Copilot%20Studio-202A36?style=for-the-badge" height="28" alt="Copilot Studio" title="Copilot Studio" />
+</td></tr>
+<tr><td><b>IA</b></td><td>
+<img src="assets/icons/openai.svg" width="48" alt="OpenAI" title="OpenAI" />
+<img src="assets/icons/claude.svg" width="48" alt="Claude (Claude Code)" title="Claude (Claude Code)" />
+<img src="assets/icons/googlegemini.svg" width="48" alt="Gemini" title="Gemini" />
+</td></tr>
 <tr><td><b>Outras</b></td><td>
 <img src="https://skillicons.dev/icons?i=git" width="48" alt="Git" title="Git" />
 <img src="https://skillicons.dev/icons?i=flask" width="48" alt="Flask" title="Flask" />
 <img src="assets/icons/jupyter.svg" width="48" alt="Jupyter" title="Jupyter" />
+</td></tr>
+<tr><td><b>Plataformas do dia a dia</b></td><td>
+<img src="https://img.shields.io/badge/Salesforce-202A36?style=for-the-badge" height="28" alt="Salesforce" title="Salesforce" />
+<img src="https://img.shields.io/badge/SharePoint%20Lists-202A36?style=for-the-badge" height="28" alt="SharePoint Lists" title="SharePoint Lists" />
+<img src="https://img.shields.io/badge/FindMe-202A36?style=for-the-badge" height="28" alt="FindMe" title="FindMe" />
+<img src="https://img.shields.io/badge/FullTrack-202A36?style=for-the-badge" height="28" alt="FullTrack" title="FullTrack" />
+<img src="https://img.shields.io/badge/Monuv-202A36?style=for-the-badge" height="28" alt="Monuv" title="Monuv" />
+<img src="https://img.shields.io/badge/Zabbix-202A36?style=for-the-badge" height="28" alt="Zabbix" title="Zabbix" />
+<img src="https://img.shields.io/badge/SigmaCloud-202A36?style=for-the-badge" height="28" alt="SigmaCloud" title="SigmaCloud" />
 </td></tr>
 </table>
 
