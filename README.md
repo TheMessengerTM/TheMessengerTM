@@ -11,17 +11,22 @@
 
 ## Sobre mim
 
-Trabalho com automação na ASTER Segurança. Meu dia a dia é pegar uma tarefa que alguém faz na mão toda semana, como copiar dado de um sistema para outro, montar relatório ou ficar cobrando prazo da equipe, e transformar isso num fluxo que roda sozinho.
+Trabalho com automação e integração de sistemas na ASTER Segurança e **busco uma vaga de desenvolvedor backend júnior**, com Python ou Node.js/TypeScript.
 
-A maior parte eu faço em n8n e Power Automate. Quando a ferramenta não dá conta, como nos robôs que baixam os relatórios da FullTrack, da Findme e do GEAR ou que exportam os treinamentos do LudosPro, eu parto para Python.
+No dia a dia, ligo os sistemas da empresa uns aos outros: webhooks que recebem eventos do WhatsApp, APIs REST do SharePoint, do Outlook e das plataformas de rastreamento e de controle de acesso, e Redis guardando o estado de cada processo. Esses processos rodam em produção, em n8n e Power Automate. Quando a ferramenta não dá conta, escrevo em Python, como nos robôs que baixam os relatórios da FullTrack, da Findme e do GEAR.
 
-Uso IA onde o dado chega como texto livre. Na inclusão de clientes, a IA (OpenAI, com saída estruturada) lê o PDF do formulário preenchido pelo cliente e devolve os campos num JSON com formato fixo. Bolsão, CPF/CNPJ, datas e a checagem de duplicidade ficam em código: deixo para a IA só o que não tem como prever.
+Foi integrando sistemas que encontrei os problemas de backend que mais gosto de resolver:
 
-Para desenvolver, uso o Claude (Claude Code) como par de programação. Com ele altero os fluxos direto pela API do n8n, escrevo os scripts de apoio, reviso o que vai para produção e preparo os repositórios daqui, inclusive a sanitização antes de publicar.
+- **Evento duplicado:** cada resposta é processada uma vez só, com chaves e travas no Redis contra webhook repetido e clique duplo.
+- **Serviço fora do ar:** retentativas com intervalo e um fluxo de erro que avisa a falha com o link da execução.
+- **Dado fora do formato:** validação em código antes de gravar. A IA (OpenAI, com saída estruturada) entra só onde o dado chega como texto livre, como no PDF do formulário do cliente.
+- **Segredos e dados sensíveis:** sanitização automática antes de publicar qualquer fluxo.
 
-Quero seguir para backend. Integrando sistemas eu já tive que lidar com evento chegando duplicado, API fora do ar e dado vindo num formato diferente do esperado, e é justamente essa parte que eu mais gosto. O próximo passo é construir os serviços, e não só ligar um no outro.
+O próximo passo é construir os serviços, e não só ligar um no outro. Foi por isso que fiz a [Gear Sync API](https://github.com/TheMessengerTM/Gear-Sync-API): Python, FastAPI, SQLAlchemy, Alembic e PostgreSQL, com sincronização sem duplicar, testes com pytest, Docker e CI no GitHub Actions. Na faculdade, fiz a [Controle Financeiro API](https://github.com/TheMessengerTM/Controle-Financeiro-API) em NestJS, TypeScript e MongoDB.
 
-Os fluxos publicados aqui são os que eu uso no trabalho. Antes de subir, removo credenciais, IDs e dados internos.
+Uso o Claude Code como par de programação: para alterar os fluxos pela API do n8n, escrever scripts de apoio e revisar o que vai para produção.
+
+Os fluxos publicados aqui são os que uso no trabalho. Antes de subir, removo credenciais, IDs e dados internos.
 
 ## Projetos
 
