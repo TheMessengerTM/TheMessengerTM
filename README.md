@@ -108,6 +108,25 @@ Os fluxos publicados aqui são os que uso no trabalho. Antes de subir, removo cr
 </td></tr>
 </table>
 
+## Experiência
+
+| Cargo | Empresa | Período |
+|---|---|---|
+| Auxiliar de desenvolvimento | ASTER Segurança | jan. 2026 até hoje |
+| Estagiário | ASTER Segurança | set. 2025 a dez. 2025 |
+| Aprendiz | ASTER Segurança | jun. 2024 a set. 2025 |
+
+## Formação
+
+| Curso | Instituição | Período |
+|---|---|---|
+| Análise e Desenvolvimento de Sistemas | Universidade Presbiteriana Mackenzie | mar. 2026 a set. 2028 (previsão) |
+| Aceleração Santander: Automação na Prática | DIO | jul. 2026 a ago. 2026 |
+| Desenvolvimento Intermediário com Python | SENAI São Paulo | ago. 2025 a out. 2025 |
+| Programação em Python | SENAI São Paulo | mai. 2025 a jun. 2025 |
+
+Inglês profissional.
+
 ## Estudos
 
 Do curso de Python que fiz:
@@ -122,3 +141,7 @@ Pelo Microsoft Learn, os roteiros da trilha **PL-900 (Microsoft Power Platform F
 - Gerenciar o ambiente do Microsoft Power Platform
 
 Ao todo são 7 módulos, cerca de 7 horas: Power Apps (aplicativos de tela e baseados em modelo), Power Automate (fluxos de nuvem e de desktop, mineração de processos), Dataverse, agentes no Copilot Studio, governança e ALM.
+
+## Portfólio
+
+Os mesmos projetos, de forma mais visual: [themessengertm.github.io](https://themessengertm.github.io)
