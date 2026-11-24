@@ -93,16 +93,11 @@ Os fluxos publicados aqui são os que uso no trabalho. Antes de subir, removo cr
 </td></tr>
 <tr><td><b>Automação</b></td><td>
 <img src="assets/icons/n8n.svg" width="48" alt="n8n" title="n8n" />
+<img src="assets/icons/powerautomate.svg" width="48" alt="Power Automate" title="Power Automate" />
 <img src="assets/icons/playwright.svg" width="48" alt="Playwright" title="Playwright" />
 <img src="https://skillicons.dev/icons?i=selenium" width="48" alt="Selenium" title="Selenium" />
 <img src="https://skillicons.dev/icons?i=opencv" width="48" alt="OpenCV" title="OpenCV" />
 <img src="assets/icons/pyautogui.svg" width="48" alt="PyAutoGUI" title="PyAutoGUI" />
-</td></tr>
-<tr><td><b>Power Platform</b></td><td>
-<img src="assets/icons/powerautomate.svg" width="48" alt="Power Automate" title="Power Automate" />
-<img src="assets/icons/powerapps.svg" width="48" alt="Power Apps" title="Power Apps" />
-<img src="assets/icons/dataverse.svg" width="48" alt="Dataverse" title="Dataverse" />
-<img src="assets/icons/copilotstudio.svg" width="48" alt="Copilot Studio" title="Copilot Studio" />
 </td></tr>
 <tr><td><b>IA</b></td><td>
 <img src="assets/icons/openai.svg" width="48" alt="OpenAI" title="OpenAI" />
@@ -113,15 +108,6 @@ Os fluxos publicados aqui são os que uso no trabalho. Antes de subir, removo cr
 <img src="https://skillicons.dev/icons?i=git" width="48" alt="Git" title="Git" />
 <img src="https://skillicons.dev/icons?i=flask" width="48" alt="Flask" title="Flask" />
 <img src="assets/icons/jupyter.svg" width="48" alt="Jupyter" title="Jupyter" />
-</td></tr>
-<tr><td><b>Plataformas do dia a dia</b></td><td>
-<img src="assets/icons/salesforce.svg" width="48" alt="Salesforce" title="Salesforce" />
-<img src="assets/icons/sharepointlists.svg" width="48" alt="SharePoint Lists" title="SharePoint Lists" />
-<img src="assets/icons/findme.svg" width="48" alt="FindMe" title="FindMe" />
-<img src="assets/icons/fulltrack.svg" width="48" alt="FullTrack" title="FullTrack" />
-<img src="assets/icons/monuv.svg" width="48" alt="Monuv" title="Monuv" />
-<img src="assets/icons/zabbix.svg" width="48" alt="Zabbix" title="Zabbix" />
-<img src="assets/icons/sigmacloud.svg" width="48" alt="SigmaCloud" title="SigmaCloud" />
 </td></tr>
 </table>
 
