@@ -1,7 +1,5 @@
 <div align="center">
 
-<img src="assets/sekiro-banner.jpg" width="100%" alt="Sekiro" />
-
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:120806,50:5C1A10,100:B8321E&height=190&section=header&text=Guilherme%20Hermenegildo&fontSize=42&fontColor=F2D08A&fontAlignY=36&desc=Desenvolvedor%20Backend%20J%C3%BAnior%20%C2%B7%20Python%20%C2%B7%20Node.js%20%C2%B7%20APIs%20e%20Integra%C3%A7%C3%B5es&descSize=18&descAlignY=58" alt="Guilherme Hermenegildo" />
 
 <a href="https://www.linkedin.com/in/guilherme-henrique-da-gra%C3%A7a-hermenegildo-b2b896309"><img src="https://skillicons.dev/icons?i=linkedin" width="40" alt="LinkedIn" title="LinkedIn" /></a>
